@@ -4,7 +4,7 @@ O objetivo deste projeto é automatizar tarefas rotineiras de desenvolvimemto Fr
 ### 1. Instalação
 1.1. Execute a linha de comando abaixo para clonar o repositório:
 ```
-git clone https://github.com/RaphaelOhlsen/Gulp_Automacao_Tarefas.git
+git clone https://github.com/RaphaelOhlsen/gulpTasks.git
  ```
 1.2. Na console de terminal execute o comando:
 ```
